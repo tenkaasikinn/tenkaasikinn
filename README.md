@@ -1,13 +1,13 @@
-Hey, I'm Irwan 👋
+# Hey, I'm Irwan 👋
 
-DevOps / Platform Engineering Enthusiast  
-Linux Systems • Containers • Automation
+## DevOps / Platform Engineering Enthusiast  
+## Linux Systems • Containers • Automation
 
 Career switcher from Animal Science to DevOps, bringing analytical thinking, operational discipline, and a strong Linux-first mindset into infrastructure and automation workflows.
 
 ---
 
-🔧 What I Work With
+# What I Work With
 
 ### System & Infrastructure
 - Linux Administration (Fedora & RHEL-based systems)
