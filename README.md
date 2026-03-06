@@ -1,55 +1,63 @@
+<div align="center">
+
+```
+    🐄 → 🐧 → ☁️
+```
+
 # Hey, I'm Irwan 👋
 
-## DevOps / Platform Engineering Enthusiast  
-## Linux Systems • Containers • Automation
+**Animal Husbandry graduate who got lost in a terminal and never came back.**
 
-Career switcher from Animal Science to DevOps, bringing analytical thinking, operational discipline, and a strong Linux-first mindset into infrastructure and automation workflows.
-
----
-
-# What I Work With
-
-### System & Infrastructure
-- Linux Administration (Fedora & RHEL-based systems)
-- User, permission, process, and service management (systemd)
-- Bash scripting for automation and operational tasks
-- Networking fundamentals (SSH, ports, basic DNS, reverse proxy concepts)
-
-### Containers & Operations
-- Containerization using Docker / Podman
-- Container-based service deployment and troubleshooting
-- Resource management and basic monitoring concepts
-
-### Tools & Workflow
-- Git version control (branching, collaboration)
-- Automation-first workflows
-- Cloud-based and self-managed operational tools
+</div>
 
 ---
 
-🚀 Current Focus
-- Building production-ready automation scripts
-- Containerized application deployment
-- CI/CD pipeline fundamentals and workflow design
-- Strengthening Linux internals and system observability
+I studied livestock. Now I herd servers.
+
+Somewhere between feeding animals and writing my thesis, I fell down the Linux rabbit hole — and decided that was a perfectly valid career pivot. No CS degree, no bootcamp. Just a lot of `man` pages, broken configs, and an unhealthy relationship with the terminal.
+
+Currently self-teaching my way into DevOps & cloud infrastructure, one broken pipeline at a time.
 
 ---
 
-💼 Experience Highlight
-Automated and redesigned operational workflows for a small business, reducing manual errors, improving system reliability, and introducing basic monitoring and automation practices to support daily operations.
+## 🔧 What I'm Working With
+
+```yaml
+os:           Fedora Rawhide  # living on the edge, literally
+containers:   Podman, Docker
+iac:          Terraform
+config:       Ansible
+ci_cd:        GitHub Actions
+cloud:        AWS (EC2, S3, IAM, VPC, SSM, OIDC)
+next_up:      Kubernetes (k3s → EKS → OpenShift someday)
+```
 
 ---
 
-📦 What You'll Find Here
-- Linux system administration notes and experiments
-- Automation scripts for operational tasks
-- Container-based deployment examples
-- CI/CD and infrastructure learning projects
+## 🚧 Currently Building
+
+- **Flask App CI/CD Pipeline** — 3-workflow GitHub Actions setup (test → build → deploy), migrating from open port 22 to SSM Session Manager + OIDC. Because leaving port 22 open is a crime.
+- **Ansible Playbooks** — automating my Fedora setup because I've reinstalled this OS enough times to justify it
+- **Terraform Configs** — rebuilding from scratch because patching bad infrastructure is worse than starting over
 
 ---
 
-📫 Let's Connect
-- 📧 mirwanasikin@gmail.com
-- 📍 Palangka Raya, Indonesia
-- 🌍 Open to remote and hybrid opportunities
+## 🧠 How I Learn
 
+I don't copy-paste until I understand what I'm pasting.
+
+The goal is to get deep enough to write the script myself — *then* use tools to go faster. Call it masochism, I call it not being a script kiddie.
+
+---
+
+## 📬 Let's Connect
+
+I'm always down to talk Linux, DevOps, open source, or why I left animal husbandry.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mirwanasikin)
+
+---
+
+<div align="center">
+<sub>⚡ "The terminal doesn't care where you came from. Only what you type."</sub>
+</div>
